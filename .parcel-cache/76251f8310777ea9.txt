@@ -1,0 +1,16 @@
+15
+64/home/christian/Documents/retalapp lerna/packages/pack2/index.js1634828944315870584 0
+55/home/christian/Documents/retalapp lerna/packages/pack21634766427266347776 1
+40/home/christian/Documents/retalapp lerna1634828971363766568 1
+45/home/christian/Documents/retalapp lerna/dist1634828944415870185 1
+56/home/christian/Documents/retalapp lerna/dist/index.html1634828779612562910 0
+63/home/christian/Documents/retalapp lerna/dist/index.38661719.js1634828944411870200 0
+51/home/christian/Documents/retalapp lerna/lerna.json1634766308320860202 0
+67/home/christian/Documents/retalapp lerna/dist/index.38661719.js.map1634828944415870185 0
+49/home/christian/Documents/retalapp lerna/packages1634766446189989816 1
+55/home/christian/Documents/retalapp lerna/packages/pack31634766442886051555 1
+53/home/christian/Documents/retalapp lerna/package.json1634766308316860295 0
+64/home/christian/Documents/retalapp lerna/packages/pack3/index.js1634767914723726605 0
+49/home/christian/Documents/retalapp lerna/index.js1634828917423982555 0
+55/home/christian/Documents/retalapp lerna/packages/pack11634766411066662698 1
+64/home/christian/Documents/retalapp lerna/packages/pack1/index.js1634828866584219208 0
